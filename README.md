@@ -125,7 +125,6 @@ NSW Director: Edward Whiting
 
 ```
 Garland Lofts, Zetland Towers
-
 ```
 
 Address `19 Gadigal Ave, Zetland`
