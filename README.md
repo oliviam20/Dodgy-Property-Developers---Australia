@@ -1,5 +1,12 @@
 # Dodgy Property Developers in Australia
 
+1. [Golden Rain Developer](#golden-rain-developer)
+2. [Capital Bluesone](#capital-bluesone)
+3. [Ecove Group](#ecove-group)
+4. [Garland 204 Pty Ltd](#garland-204-pty-ltd)
+5. [JB Elias Pty Ltd, B Hillsdale Pty Ltd, Damjet Pty Ltd, Homebur Develop Pty Ltd, B-1sT Choice Roofing Pty Ltd](#jb-elias-pty-ltd-b-hillsdale-pty-ltd-damjet-pty-ltd-homebur-develop-pty-ltd-b-1st-choice-roofing-pty-ltd)
+6. [GCorp Property](#gcorp-property)
+
 ## 1. Golden Rain Developer
 
 ### ABN
@@ -181,7 +188,7 @@ Sarkis Elias
 Elias Elias
 ```
 
-## 5. GCorp Property
+## 6. GCorp Property
 
 ### Defective Property Name
 
