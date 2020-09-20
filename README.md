@@ -14,7 +14,7 @@
 Sugarcube Apartments
 ```
 
-[Link to proptery](http://www.sugarcubehoneycomb.com.au/)
+[Link to property](http://www.sugarcubehoneycomb.com.au/)
 
 ### Link to articles
 
@@ -53,7 +53,7 @@ ICON
 Nicholas Brown
 ```
 
-Evan Byrne took over during April 2020.
+`Evan Byrne` took over during April 2020.
 
 ### Link to articles
 
@@ -61,7 +61,7 @@ Evan Byrne took over during April 2020.
 
 [Opal Tower owners sue NSW governmetn over '500 new defects' - SMH](https://www.smh.com.au/national/nsw/opal-tower-owners-sue-nsw-government-over-500-new-defects-20200629-p5578w.html)
 
-### properties developed by Ecove Group
+### Properties developed by Ecove Group
 
 ```
 1. Australia Ave
@@ -78,8 +78,9 @@ Evan Byrne took over during April 2020.
 ```
 Garland Lofts, Zetland Towers
 
-19 Gadigal Ave, Zetland
 ```
+
+Address `19 Gadigal Ave, Zetland`
 
 #### CEO/Managing Director of developer, Garland 204 Pty Ltd
 
