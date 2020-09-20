@@ -1,6 +1,6 @@
 # Dodgy Property Developers in Australia
 
-1. [Golden Rain Developer](#golden-rain-developer)
+1. [Golden Rain Developer](#1.-golden-rain-developer)
 2. [Capital Bluesone](#capital-bluesone)
 3. [Ecove Group](#ecove-group)
 4. [Garland 204 Pty Ltd](#garland-204-pty-ltd)
