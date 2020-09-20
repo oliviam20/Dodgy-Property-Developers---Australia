@@ -11,7 +11,7 @@
 ### Defective Property Name
 
 ```
-Sugarcube Apartments
+Sugarcube Apartments - Erskineville
 ```
 
 [Link to property](http://www.sugarcubehoneycomb.com.au/)
@@ -74,7 +74,7 @@ Bassam Aflak
 ### Defective Property Name
 
 ```
-Sydney Opal Tower
+Sydney Opal Tower - Sydney Olympic Park
 ```
 
 #### Builder of above defective property
@@ -180,3 +180,15 @@ Hanna Elias
 Sarkis Elias
 Elias Elias
 ```
+
+## 5. GCorp Property
+
+### Defective Property Name
+
+```
+Joshua - Alexandria
+```
+
+### Link to artiles
+
+[Residents at risk: Council sought demolition orders on Alexandria block](https://www.smh.com.au/national/residents-at-risk-council-sought-demolition-orders-on-alexandria-block-20190723-p52a1t.html)
