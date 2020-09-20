@@ -22,7 +22,47 @@ Sugarcube Apartments
 
 [Link 2 - SMH](https://www.smh.com.au/national/nsw/what-sane-person-would-wait-five-years-hope-for-unit-owners-after-toxin-delay-20200513-p54sml.html)
 
-## 2. Ecove Group
+## 2. Capital Bluesone
+
+### Defective Property Name
+
+```
+Otto Rosebery
+```
+
+#### Builder of above defective property
+
+```
+ICON CO
+```
+
+*Also built Opal Tower*
+
+[Link to defective builder](https://icon.co/)
+
+[Link to defective builder's other projects](https://icon.co/projects)
+
+#### CEO/Chairman/Directors of builder, ICON
+
+[Link to leadership team](https://icon.co/company-profile/leadership/)
+
+```
+Chairman, Australia: Motohiro Umehara
+
+CEO/Managing Director: Evan Byrne
+
+Icon founder/director: Nicholas Brown
+
+NSW Director: Edward Whiting
+```
+
+### Link to articles
+
+[Balcony safety fears for more apartments linked to Opal Tower builder - The New Daily](https://thenewdaily.com.au/finance/property/2019/10/08/otto-apartments-balconies/)
+
+[Warnings of unsafe balconies put Rosebery unit residents on edge - realestate.com.au](https://www.realestate.com.au/news/warnings-of-unsafe-balconies-put-rosebery-unit-residents-on-edge/)
+
+## 3. Ecove Group
 
 [Link to developer](http://www.ecove.com.au/)
 
@@ -40,20 +80,28 @@ Sydney Opal Tower
 #### Builder of above defective property
 
 ```
-ICON
+ICON CO
 ```
+*Also built Otto Rosebery*
 
 [Link to defective builder](https://icon.co/)
 
 [Link to defective builder's other projects](https://icon.co/projects)
 
-#### CEO/Managing Director of builder, ICON
+#### CEO/Chairman/Directors of builder, ICON
+
+[Link to leadership team](https://icon.co/company-profile/leadership/)
 
 ```
-Nicholas Brown
+Chairman, Australia: Motohiro Umehara
+
+CEO/Managing Director: Evan Byrne
+
+Icon founder/director: Nicholas Brown
+
+NSW Director: Edward Whiting
 ```
 
-`Evan Byrne` took over during April 2020.
 
 ### Link to articles
 
@@ -71,7 +119,7 @@ Nicholas Brown
 5. Opal Tower
 ```
 
-## 3. Garland 204 Pty Ltd - phoenix company
+## 4. Garland 204 Pty Ltd - phoenix company
 
 ### Defective Property Name
 
@@ -98,7 +146,7 @@ Janet Pennington
 
 ['Walk away from this bombshell':residents tell of Zetland apartments anguish - SMH](https://www.smh.com.au/national/walk-away-from-this-bombshell-residents-tell-of-zetland-apartments-anguish-20190710-p5260v.html)
 
-## 4. JB Elias Pty Ltd, B Hillsdale Pty Ltd, Damjet Pty Ltd, Homebur Develop Pty Ltd, B-1sT Choice Roofing Pty Ltd
+## 5. JB Elias Pty Ltd, B Hillsdale Pty Ltd, Damjet Pty Ltd, Homebur Develop Pty Ltd, B-1sT Choice Roofing Pty Ltd
 
 The strata plan lodged for the 1-5 Bourke Road, Mascot, property identifies five companies as the landowners or developers of the project.
 
