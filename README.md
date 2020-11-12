@@ -3,7 +3,7 @@
 1. [Golden Rain Developer](#1-golden-rain-developer)
 2. [Capital Bluesone](#2-capital-bluesone)
 3. [Ecove Group](#3-ecove-group)
-4. [Garland 204 Pty Ltd](#4-garland-204-pty-ltd)
+4. [Garland 204 Pty Ltd](#4-garland-204-pty-ltd---phoenix-company)
 5. [JB Elias Pty Ltd, B Hillsdale Pty Ltd, Damjet Pty Ltd, Homebur Develop Pty Ltd, B-1sT Choice Roofing Pty Ltd](#5-jb-elias-pty-ltd-b-hillsdale-pty-ltd-damjet-pty-ltd-homebur-develop-pty-ltd-b-1st-choice-roofing-pty-ltd)
 6. [GCorp Property](#6-gcorp-property)
 7. [Deicorp](#7-deicorp)
