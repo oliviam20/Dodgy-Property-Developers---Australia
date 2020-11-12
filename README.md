@@ -176,7 +176,7 @@ Sarkis Elias was a director of B-1sT Choice Roofing Pty Ltd, another of the Masc
 Mascot Towers
 ```
 
-### Link to artiles
+### Link to articles
 
 [Mascot Toers developers busy building apartments across Sydney](https://www.smh.com.au/national/nsw/mascot-towers-developers-busy-building-apartments-across-sydney-20190625-p5217s.html)
 
@@ -196,6 +196,19 @@ Elias Elias
 Joshua - Alexandria
 ```
 
-### Link to artiles
+### Link to articles
 
 [Residents at risk: Council sought demolition orders on Alexandria block](https://www.smh.com.au/national/residents-at-risk-council-sought-demolition-orders-on-alexandria-block-20190723-p52a1t.html)
+
+
+## 7. Deicorp
+
+### Defective Property Name
+
+```
+Star Printery - Erskineville
+```
+
+### Link to articles
+
+[Alarm after Block's developer taken to court for alleged shoddy work](https://www.sbs.com.au/news/alarm-after-block-s-developer-taken-to-court-for-alleged-shoddy-work)
