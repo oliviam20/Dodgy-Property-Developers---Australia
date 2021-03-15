@@ -7,6 +7,7 @@
 5. [JB Elias Pty Ltd, B Hillsdale Pty Ltd, Damjet Pty Ltd, Homebur Develop Pty Ltd, B-1sT Choice Roofing Pty Ltd](#5-jb-elias-pty-ltd-b-hillsdale-pty-ltd-damjet-pty-ltd-homebur-develop-pty-ltd-b-1st-choice-roofing-pty-ltd)
 6. [GCorp Property](#6-gcorp-property)
 7. [Deicorp](#7-deicorp)
+8. [Merhis Living](#8-merhis-living)
 
 ## 1. Golden Rain Developer
 
@@ -213,3 +214,14 @@ Star Printery - Erskineville
 ### Link to articles
 
 [Alarm after Block's developer taken to court for alleged shoddy work](https://www.sbs.com.au/news/alarm-after-block-s-developer-taken-to-court-for-alleged-shoddy-work)
+
+## 8. Merhis Living
+```
+Aya Eliza Auburn
+```
+https://merhisliving.com.au/aya-eliza-auburn/
+
+### Link to articles
+[Sydney's 'worst' apartment tower for defects forces industry shake-up](https://www.smh.com.au/national/nsw/sydney-s-worst-apartment-tower-for-defects-forces-industry-shake-up-20200609-p550vi.html)
+
+[Auburn high-rise apartment tower raises major defect flaw concerns](https://www.youtube.com/watch?v=Y19TMZt8w6U&t=33s&ab_channel=7NEWSAustralia)
